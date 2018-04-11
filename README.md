@@ -33,5 +33,5 @@ Be sure to install the dependencies first.
 Dependencies only required for automated packaging.
 
 #### Icons
-Shout out to [willcdotca](https://github.com/willcdotcagi) for creating the icons.
+Shout out to [willcdotca](https://github.com/willcdotca) for creating the icons.
 Much appreciated. 
