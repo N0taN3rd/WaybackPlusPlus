@@ -25,7 +25,7 @@ yarn run build-chrome
 
 Package for Firefox
 ```sh
-yarn run build-chrome
+yarn run build-firefox
 ```
 
 Be sure to install the dependencies first.
